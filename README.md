@@ -1,5 +1,3 @@
-# Hacknite_gamedev
-2D Game created using unity
 
 # FRACTURED ECHOES
 
@@ -128,6 +126,35 @@ A powerful, oppressive force that rose after the city's destruction. They contro
 Led by Kai, the regime sees memory and truth as threats—and will stop at nothing to bury both.
 
 
+## Contributions
+
+🎭 Gourav
+Directed the game’s overall visual aesthetics, balancing the contrast between past and present.
+
+Designed and placed clue objects that are both meaningful and visually distinct.
+
+Created building designs for both intact (past) and destroyed (present) states.
+
+Developed character art that reflected the tone of the story and helped bring the narrative to life.
+
+🧠 Harsh
+Handled scene transitions to ensure smooth movement between environments like the present, interiors, and memory dives.
+
+Created scripts to control game flow, interactions, and player logic.
+
+Managed player progression systems, ensuring clues and triggers respond correctly.
+
+Helped integrate UI and gameplay events, like activating menus and pop-ups based on game state.
+
+
+🎨 Brinda
+Animated the character’s movement for both inside (top-down) and outside (side-scrolling) environments.
+
+Created and scripted the instruction menu, ensuring it appears at the right moments during gameplay.
+
+Focused on designing both intact and demolished buildings, reflecting the contrast between the past and present.
+
+Worked on background elements to enhance the visual depth and atmosphere of the game world.
 ## 🎯 End Goal
 The ultimate goal is to rescue the sister, uncover the truth hidden by the regime, and restore the past. As the protagonist collects clues and solves puzzles, he grows closer to overthrowing Kai and the oppressive government. In the end, it’s a fight to bring hope back to a world that has long since forgotten it.
 
