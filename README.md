@@ -4,7 +4,7 @@
 
 
 ## Instructions:
-right arrow : go right
+right arrow : go right\n
 left arrow : go left
 up arrow : (inside a building) go forward
 down arrow : go backward
