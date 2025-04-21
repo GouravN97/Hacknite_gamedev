@@ -3,6 +3,17 @@
 
 
 
+## Instructions:
+right arrow : go right
+left arrow : go left
+up arrow : (inside a building) go forward
+down arrow : go backward
+I : instructions
+M : show clues
+E : switch to the past
+H : Go inside a building
+K : Come back out of the building
+
 
 ## 🧠 Game Overview
 
